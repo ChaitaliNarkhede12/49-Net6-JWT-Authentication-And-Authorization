@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Gw2hlZo8cqEnm4oOjtNSELeoYmjGUTmy7jUIg+fjmA=",
+  "Source": "Net6JWTAuthenticationAndAuthorization",
+  "BasePath": "_content/Net6JWTAuthenticationAndAuthorization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
